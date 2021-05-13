@@ -117,7 +117,7 @@ mameluco
 mamporrero
 manegueta
 mangarrán
-mMangurrián
+mangurrián
 mastuerzo
 matacandiles
 meapilas
@@ -222,7 +222,7 @@ zullenco
 zurcefrenillos
 asno
 bastardo
-Bollera
+bollera
 abron
 abrón
 cabron
@@ -238,6 +238,7 @@ heroína
 hijadeputa
 hijaputa
 hijodeputa
+hijo de puta
 hijoputa
 idiota
 imbécil
@@ -255,12 +256,9 @@ mamada
 marica
 maricón
 mariconazo
-martillo
 mierda
 nazi
-pedo
 pervertido
-pezón
 pinche
 prostituta
 racista
@@ -268,7 +266,6 @@ ramera
 sádico
 soplagaitas
 soplapollas
-travesti
 verga
 vulva
 puto
